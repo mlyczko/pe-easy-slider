@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:449
+msgid "<strong>Remember to create directory before you enter it above.</strong>"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:488
+msgid "ASC"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:453
+msgid "All Categories"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:504
+msgid "Arrows"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:503
+msgid "Bullets"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:451
+msgid "Category (empty categories are not displayed)"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:489
+msgid "DESC"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:495
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: pe-easy-slider/pe-easy-slider.php:1
+msgid "Easy Posts Slider."
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:352
+msgid "Entered directory doesn\\'t exist, is not writable or doesn\\'t contain any images."
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:435
+msgid "Folder as a source"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:439
+msgid "Force display sticky posts"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:428
+msgid "Gallery Grid"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:532
+msgid "Grid Spacing (px)"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:481
+msgid "Hide"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:509
+msgid "Image Size"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:446
+msgid "Image folder (inside <strong>/wp-content/uploads/</strong>)"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:528
+msgid "Image height in px ( 0 - disabled )"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:517
+msgid "Interval in ms ( 0 - autoplay is disabled )"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:497
+msgid "Most commented"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:501
+msgid "Navigation"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:346
+msgid "Next"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:442
+#: pe-easy-slider/pe-easy-slider.php:524
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:505
+msgid "None"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:475
+msgid "Number of all items"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:467
+msgid "Number of items in row"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:471
+msgid "Number of rows"
+msgstr ""
+
+#. Text in function
+#: pe-easy-slider/pe-easy-slider.php:377
+msgid "PE Easy Slider"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:348
+msgid "Pause"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:521
+msgid "Pause on hover"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:347
+msgid "Play"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:434
+msgid "Posts"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:486
+msgid "Posts Order Direction"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:493
+msgid "Posts Ordering"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:345
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: pe-easy-slider/pe-easy-slider.php:169
+msgid "Read more..."
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:479
+msgid "Readmore"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:482
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:427
+msgid "Slider"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:432
+msgid "Source"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:425
+msgid "Styles"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:421
+#: pe-easy-slider/pe-easy-slider.php:496
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:441
+#: pe-easy-slider/pe-easy-slider.php:523
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:513
+msgid "large"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:512
+msgid "medium"
+msgstr ""
+
+#. Text in echo
+#: pe-easy-slider/pe-easy-slider.php:511
+msgid "thumbnail"
+msgstr ""
