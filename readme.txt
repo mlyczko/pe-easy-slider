@@ -3,8 +3,8 @@ Contributors: pixelemu
 Donate link: https://pixelemu.com
 Tags: easy slider, thumbnails, widget
 Requires at least: 3.9
-Tested up to: 5.3
-Stable tag: 1.0.9
+Tested up to: 5.5
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,10 @@ Image sizes available to select from the list are determined at Media Settings o
 6. Gallery grid view, 3 items in row.
 
 == Changelog ==
+
+= 1.1.0 =
+= fixed: =
+* Changed jQuery "live" method to "on" to get compatibility with Wordpress 5.5
 
 = 1.0.9 =
 = fixed: =
